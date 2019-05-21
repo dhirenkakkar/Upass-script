@@ -9,4 +9,4 @@ A script that will request the renewal for my upass translink compass card. The 
 - Feed in your personal username/password within the script.
 - Use *cronjon* to make the script run automatically on 20th midnight every month. For mac, open the terminal and type:
   - env EDITOR=nano crontab -e
-    0 0 20 * *  /full/path/to/python /full/path/to/script.py
+  - 0 0 20 * *  /full/path/to/python /full/path/to/script.py
